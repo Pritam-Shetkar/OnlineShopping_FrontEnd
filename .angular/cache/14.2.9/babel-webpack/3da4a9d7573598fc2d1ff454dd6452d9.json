@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class productdata {\n  constructor() {\n    this.pId = 0;\n    this.pName = '';\n    this.pColor = '';\n    this.pType = '';\n    this.pSize = '';\n    this.pPrize = 0;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
